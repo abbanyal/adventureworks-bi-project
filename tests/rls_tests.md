@@ -8,8 +8,8 @@ Tested in Power BI Desktop with Modeling > View as.
 |---|-------------|----------|--------|--------|
 | 1 | manager.europe@example.com | Only France, Germany, UK | 3 regions. Sales 19,837,684.28 (SQL: 19,837,684.28, 27,042 lines) | Pass |
 | 2 | manager.us@example.com | Only Northwest, Northeast | 2 regions. Sales 23,024,317.03 (SQL: 23,024,317.03, 22,701 lines) | Pass |
-| 3 | nobody@example.com | No data | Not yet run | |
-| 4 | Executive | All 10 regions, about 109.85M | Not yet run | |
+| 3 | nobody@example.com | No data | No data shown | Pass |
+| 4 | Executive | All 10 regions, about 109.85M | All 10 regions, total shown (see screenshot) | Pass |
 
 Screenshots are in tests/rls_results/.
 
