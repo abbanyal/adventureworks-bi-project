@@ -55,4 +55,4 @@ only when the report is published and users are assigned to roles.
 
 ## Contact
 Name: Ankush
-Email: abankushbanyal@gmail.com
+Contact: via GitHub (github.com/abbanyal)
