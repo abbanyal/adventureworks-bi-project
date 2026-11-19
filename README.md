@@ -68,3 +68,6 @@ Power BI Service with a gateway and scheduled refresh.
 - `docs/data_dictionary.md`
 - `docs/service_deployment_plan.md`
 - `tests/` (reconciliation, ETL, DAX, RLS, performance)
+
+## Demo
+https://drive.google.com/file/d/1pkivNpgEX01FOAEra45MYOfwkG4f2wIT/view?usp=sharing
