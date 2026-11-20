@@ -21,7 +21,7 @@ I worked on this project on my own, so I built every part of the pipeline:
 * **Time intelligence depends on the data.** The data runs from 30 May 2022 to 29 June 2025 and thins out at the end, so a plain year-over-year figure for 2025 looked like a 54% drop. A "comparable period" measure was needed, and I had to explain the limitation instead of hiding it.
 * **Row-level security filters through relationships.** I verified it by comparing "View as" results with SQL totals for two managers, which matched to the cent. I also learned its limits: other dimensions can still list names, and roles can only be assigned to real users in the Power BI Service.
 * **Version control is part of the work.** Several files I thought I had saved were never in the repository until I checked GitHub myself. Checking the repo, not just my laptop, mattered.
-* **Working with an AI assistant.** \[I used Claude as a guide. It explained steps and wrote draft scripts, and I ran, checked and corrected them myself. Some of its early answers were wrong, such as the expected customer counts, and I only caught them by testing against the source data.]
+* **Working with an AI assistant.** I used Claude as a guide. It explained steps and wrote draft scripts, and I ran, checked and corrected them myself. Some of its early answers were wrong, such as the expected customer counts, and I only caught them by testing against the source data.
 
 ## What I would do differently
 
